@@ -70,4 +70,4 @@ jobs:
         with: 
           bucket: gha-custom-action-hosting-4531
           dist-folder: ./dist
-          # bucket-region: ap-south-2
+          #  bucket-region: ap-south-2
